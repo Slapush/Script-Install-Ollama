@@ -17,18 +17,18 @@ This repository provides a comprehensive installation script to set up Ollama, p
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Slapush/Script-Install-Ollama.git
+   cd Script-Install-Ollama
    ```
 
 2. Make the script executable:
    ```sh
-   chmod +x install_script.sh
+   chmod +x ollama-install.sh
    ```
 
 3. Run the script:
    ```sh
-   ./install_script.sh
+   ./ollama-install.sh
    ```
 
 This script will:
