@@ -41,7 +41,7 @@ This script will:
 6. Run the open-webui container.
 
 Port Information
-The open-webui service will be accessible on port ``11434``.
+The open-webui service will be accessible on port ``8080``.
 
 ## References
 
