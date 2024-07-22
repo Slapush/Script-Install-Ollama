@@ -40,7 +40,7 @@ This script will:
 5. Install Docker Engine and plugins.
 6. Run the open-webui container.
 
-Port Information
+## Port Information
 The open-webui service will be accessible on port ``8080``.
 
 ## References
