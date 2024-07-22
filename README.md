@@ -47,4 +47,4 @@ This installation script was inspired by detailed tutorials and documentation fr
 - [NetworkChuck Academy](https://academy.networkchuck.com/products/youtube-videos/categories/2155282450/posts/2177513911)
 - [Ollama Official Page](https://ollama.com/download)
 
-By following these steps, you can easily set up a powerful development environment with Ollama and Docker.
+By following these steps, you can easily set up a powerful development environment with Ollama, Open-webui and Docker.
