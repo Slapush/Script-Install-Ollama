@@ -44,7 +44,7 @@ This script will:
 
 This installation script was inspired by detailed tutorials and documentation from the following sources:
 
-- [NetworkChuck YouTube Video on Docker](https://academy.networkchuck.com/products/youtube-videos/categories/2155282450/posts/2177513911)
-- [Ollama Official Download Page](https://ollama.com/download)
+- [NetworkChuck Academy](https://academy.networkchuck.com/products/youtube-videos/categories/2155282450/posts/2177513911)
+- [Ollama Official Page](https://ollama.com/download)
 
 By following these steps, you can easily set up a powerful development environment with Ollama and Docker.
