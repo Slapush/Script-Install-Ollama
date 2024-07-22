@@ -3,12 +3,12 @@
 # Téléchargement et installation de Ollama
 curl -fsSL https://ollama.com/install.sh | sh
 
-# Téléchargement du modèle llama2
-ollama pull llama2
-
 # Mise à jour des paquets et installation des certificats nécessaires
 sudo apt-get update
 sudo apt-get install -y ca-certificates curl
+
+# Téléchargement du modèle llama2
+ollama pull llama2
 
 # Création du répertoire pour les clés et téléchargement de la clé GPG de Docker
 sudo install -m 0755 -d /etc/apt/keyrings
